@@ -1,8 +1,8 @@
 {
-    "name":"CK Browser Pairs Game",
+    "name":"npch Browser Pairs Game",
     "developer": {
-        "name":"Christie Koehler",
-        "url":"http://christi3k.github.io/browser-pairs/index.html"
+        "name":"Neil Chue Hong",
+        "url":"http://npch.github.io/browser-pairs/index.html"
     },
     "description":"Browser Pairs Game",
     "launch_path":"/browser-pairs/index.html",
